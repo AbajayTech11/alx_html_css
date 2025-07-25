@@ -123,7 +123,8 @@ nav ul li a:hover {
 
 /* ======= QUOTE SECTION ======= */
 .quote {
-  background-color: #fff;
+  background-color: #7e57c2; /* Purple background */
+  color: #fff; /* White text */
   padding: 30px 20px;
 }
 
@@ -229,9 +230,10 @@ blockquote {
 
 /* ======= MEMBERSHIP SECTION ======= */
 .membership {
-  background-color: #fff;
+  background-color: #000; /* Black background */
   padding: 40px 20px;
   text-align: center;
+  color: #fff;
 }
 
 .membership h2 {
@@ -288,7 +290,7 @@ blockquote {
 
 /* ======= FOOTER ======= */
 footer {
-  background-color: #333;
+  background-color: #000; /* Black background */
   color: white;
   text-align: center;
   padding: 20px;
